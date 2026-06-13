@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module type="PYTHON_MODULE" version="4">
   <component name="NewModuleRootManager">
-    <content url="file://$MODULE_DIR$" />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/29.12.2025 CNN/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/Project - Deep Learning/collaborative filtering/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/collaborative filtering/.venv" />
+    </content>
     <orderEntry type="jdk" jdkName="Python 3.13 (Data science)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
